@@ -9,6 +9,7 @@ def translate_emojis(text: str) -> str:
         "❤️": "heart",
         "🔥": "fire",
         "👍": "thumbs up",
+        "👎": "thumbs down",
         "😢": "cry",
         "😎": "cool",
         "💡": "idea",
